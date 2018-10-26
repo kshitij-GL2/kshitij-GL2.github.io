@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2E92E637T7.com.verizon.ams.fiostv.dev",
+                "paths": [ "/promotional-vod/", "/upgrade/ios/*"]
+            },
+            {
+                "appID": "2E92E637T7.com.verizon.ams.dvr.Release",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
